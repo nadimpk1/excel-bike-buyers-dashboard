@@ -133,6 +133,6 @@ The tutorial demonstrates how Excel can be used for data cleaning, analysis, and
 
 Nadim Abdu Nassar
 
-Aspiring Business Analyst | SQL | Excel | Power BI
+Business Analyst | SQL | Excel | Power BI
 
 GitHub: https://github.com/nadimpk1
